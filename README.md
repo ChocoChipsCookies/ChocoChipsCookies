@@ -1,7 +1,7 @@
 ## Wsp gng
 
 <!--
-**ChocoChipsCookies/ChocoChipsCookies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hydra_X/Hydra_X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
