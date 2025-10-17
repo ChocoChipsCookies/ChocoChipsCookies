@@ -1,4 +1,4 @@
-## Wsp gng
+## 
 
 <!--
 **Hydra_X/Hydra_X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
